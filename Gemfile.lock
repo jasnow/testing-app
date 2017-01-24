@@ -132,7 +132,7 @@ GEM
       nenv (~> 0.1)
       shellany (~> 0.0)
     orm_adapter (0.5.0)
-    overcommit (0.37.0)
+    overcommit (0.38.0)
       childprocess (~> 0.5.8)
       iniparse (~> 1.4)
     pry (0.10.4)
@@ -281,4 +281,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   1.14.2
+   1.14.3
