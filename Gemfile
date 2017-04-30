@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.1.0.rc2'
+gem 'rails', '5.1.0'
 
 gem 'sqlite3'
 gem 'sass-rails'
@@ -13,7 +13,7 @@ gem 'sdoc', group: :doc
 gem 'overcommit'
 
 # ADDED
-gem 'devise'
+gem 'devise', git: 'https://github.com/plataformatec/devise' #LOCKED DOWN
 gem 'warden'
 
 group :development do
