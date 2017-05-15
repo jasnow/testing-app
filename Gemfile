@@ -13,7 +13,7 @@ gem 'sdoc', group: :doc
 gem 'overcommit'
 
 # ADDED
-gem 'devise', git: 'https://github.com/plataformatec/devise' #LOCKED DOWN
+gem 'devise'
 gem 'warden'
 
 group :development do
