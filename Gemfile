@@ -26,6 +26,7 @@ group :development, :test do
 
   # ADDED ......................................................
   gem 'rspec-rails'
+  gem 'puma'
   gem 'factory_girl_rails'
   gem 'capybara'
   gem 'guard-rspec'
