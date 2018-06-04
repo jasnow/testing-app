@@ -84,7 +84,7 @@ GEM
     factory_bot_rails (4.10.0)
       factory_bot (~> 4.10.0)
       railties (>= 3.0.0)
-    ffi (1.9.24)
+    ffi (1.9.25)
     formatador (0.2.5)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
@@ -252,7 +252,7 @@ GEM
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
       railties (>= 5.0)
-    webmock (3.4.1)
+    webmock (3.4.2)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
