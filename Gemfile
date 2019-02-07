@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '6.0.0.beta1'
 gem 'devise'
 
-gem 'sqlite3'
+gem 'sqlite3', '1.3.13' # 2/7/2019: LOCKED DOWN
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
