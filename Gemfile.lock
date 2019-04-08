@@ -31,7 +31,7 @@ GIT
 
 GIT
   remote: https://github.com/rspec/rspec-mocks
-  revision: a6e52c7b6dc12847ad8a362a6dc87c501c557048
+  revision: f1b69945b0b9cfb33b3959985ce0b9ddd3b1844c
   specs:
     rspec-mocks (3.9.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -118,7 +118,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     ast (2.4.0)
     bcrypt (3.1.12)
-    bindex (0.6.0)
+    bindex (0.7.0)
     builder (3.2.3)
     byebug (11.0.1)
     capybara (3.16.1)
