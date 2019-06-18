@@ -4,7 +4,7 @@ gem 'rails', '6.0.0.rc1'
 gem 'devise'
 
 gem 'sqlite3'
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'uglifier'
 gem 'jquery-rails'
 gem 'turbolinks'
