@@ -32,8 +32,6 @@ group :development, :test do
 end
 
 group :test do
-  # ADDED ......................................................
-  gem 'hashdiff', '1.0.0.beta1' # 7/5/2019: Added to try to fix warning msg.
   gem 'webmock'
   gem 'rails-controller-testing'
 end
