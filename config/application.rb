@@ -29,5 +29,7 @@ module TestingApp
     # config.i18n.default_locale = :de
 
     config.generators.javascript_engine = :js
+
+    config.action_dispatch.return_only_media_type_on_content_type = false
   end
 end
