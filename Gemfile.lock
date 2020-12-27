@@ -77,7 +77,8 @@ GEM
       xpath (~> 3.2)
     childprocess (4.0.0)
     concurrent-ruby (1.1.7)
-    crack (0.4.4)
+    crack (0.4.5)
+      rexml
     crass (1.0.6)
     devise (4.7.3)
       bcrypt (~> 3.0)
