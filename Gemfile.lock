@@ -165,7 +165,7 @@ GEM
       rake (>= 0.13)
       thor (~> 1.0)
     rainbow (3.0.0)
-    rake (13.0.4)
+    rake (13.0.5)
     rdoc (6.3.2)
     regexp_parser (2.1.1)
     responders (3.0.1)
@@ -283,4 +283,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.2.21
+   2.2.22
