@@ -215,7 +215,7 @@ GEM
       tilt
     sdoc (2.2.0)
       rdoc (>= 5.0)
-    spring (3.0.0)
+    spring (3.1.0)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.0.2)
@@ -284,4 +284,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.2.31
+   2.2.32
