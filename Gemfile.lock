@@ -96,7 +96,7 @@ GEM
       factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
     ffi (1.15.4)
-    globalid (0.5.2)
+    globalid (0.6.0)
       activesupport (>= 5.0)
     hashdiff (1.0.1)
     i18n (1.8.11)
