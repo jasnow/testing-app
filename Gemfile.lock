@@ -88,6 +88,7 @@ GEM
       responders
       warden (~> 1.2.3)
     diff-lcs (1.5.0)
+    digest (3.1.0)
     erubi (1.10.0)
     execjs (2.8.1)
     factory_bot (6.2.0)
@@ -102,6 +103,7 @@ GEM
     i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
+    io-wait (0.2.1)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
@@ -119,6 +121,13 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.2)
     minitest (5.15.0)
+    net-protocol (0.1.2)
+      io-wait
+      timeout
+    net-smtp (0.3.1)
+      digest
+      net-protocol
+      timeout
     nio4r (2.5.8)
     nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
@@ -235,6 +244,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     thor (1.1.0)
     tilt (2.0.10)
+    timeout (0.2.0)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
@@ -271,6 +281,7 @@ DEPENDENCIES
   factory_bot_rails
   jbuilder
   jquery-rails
+  net-smtp
   overcommit
   rails (= 6.1.4.4)
   rails-controller-testing

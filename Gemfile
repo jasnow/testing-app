@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '6.1.4.4'
 gem 'devise'
+gem 'net-smtp' # Added for Ruby 3.1.
 
 gem 'sqlite3'
 gem 'sassc-rails'
