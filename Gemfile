@@ -11,6 +11,7 @@ gem "turbolinks"
 gem "jbuilder"
 gem "sdoc", group: :doc
 gem "overcommit"
+gem "webrick"
 
 # ADDED
 gem "warden"
