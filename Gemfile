@@ -30,6 +30,7 @@ group :development, :test do
   gem "vcr"
   gem "rubocop-rspec"
   gem "standard"
+  gem 'simplecov', require: false
   gem "ruby_audit"
   gem "spektr"
 end
