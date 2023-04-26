@@ -113,7 +113,7 @@ GEM
       thor
       tilt
     hashdiff (1.0.1)
-    i18n (1.12.0)
+    i18n (1.13.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     jbuilder (2.11.5)
