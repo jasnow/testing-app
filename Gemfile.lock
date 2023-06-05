@@ -113,7 +113,7 @@ GEM
       thor
       tilt
     hashdiff (1.0.1)
-    i18n (1.14.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     jbuilder (2.11.5)
@@ -305,7 +305,7 @@ GEM
       rubocop (~> 1.52.0)
       standard-custom (~> 1.0.0)
       standard-performance (~> 1.1.0)
-    standard-custom (1.0.0)
+    standard-custom (1.0.1)
       lint_roller (~> 1.0)
     standard-performance (1.1.0)
       lint_roller (~> 1.0)
