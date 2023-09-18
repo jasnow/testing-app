@@ -3,6 +3,10 @@ source "https://rubygems.org"
 gem "rails", "7.0.8"
 gem "devise"
 
+gem "bigdecimal"
+gem "mutex_m"
+gem "observer"
+
 gem "sqlite3"
 gem "sassc-rails"
 gem "terser"
