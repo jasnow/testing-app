@@ -7,7 +7,7 @@ gem "bigdecimal"
 gem "mutex_m"
 gem "observer"
 
-gem "sqlite3"
+gem "sqlite3", "~> 1.4"
 gem "sassc-rails"
 gem "terser"
 gem "jquery-rails"
