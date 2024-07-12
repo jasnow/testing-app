@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
-gem "rails", "7.2.0.beta2"
+gem "rails", "7.2.0.beta3"
 gem "devise"
-gem 'net-pop', github: 'ruby/net-pop' # 6/28/2024: Required for RUBY 3.3.3
 
 gem "bigdecimal"
 gem "mutex_m"
